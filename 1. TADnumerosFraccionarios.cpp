@@ -74,12 +74,12 @@ int main(){
 			case 7:
 				system("cls");
 				f1 = crearFraccion();
-				printf("El numerador es %d", f1.numerador);
+				printf("El numerador es %d \n", f1.numerador);
 			break;
 			case 8:
 				system("cls");
 				f1 = crearFraccion();
-				printf("El denominador es %d", f1.denominador);
+				printf("El denominador es %d \n", f1.denominador);
 			break;
 			case 9:
 				return 0;

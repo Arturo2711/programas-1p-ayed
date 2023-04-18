@@ -24,7 +24,6 @@ void mostrarCola(Cola *q);
 
 void insertarAlumno(Cola *q, Alumno al);
 void generarAlumnos(Cola *q);
-void mostrarAlumnoLlega(Alumno alumno);
 void ordenarDes(Cola *q);
 void inscribirAlumnos(Cola *estMat, Cola *estIns, Cola *estEsp);
 Alumno quitarAlumno(Cola *q);

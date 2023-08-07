@@ -16,6 +16,7 @@ void vaciarPalabra(Pila *P);
 void esPalindromo(Pila *P);
 
 int main(){
+    // Solo para un fork 
     char letra;
     Pila p;
     vaciarPalabra(&p);
